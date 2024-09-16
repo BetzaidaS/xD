@@ -1,0 +1,2 @@
+String mensaje = "andres2";
+System.out.println(mensaje.length());
